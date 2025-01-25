@@ -27,6 +27,7 @@ Majority of Transactions are between 0-1000,
 The Lowest Transaction is  between 7000 - 8000,
 
 RECOMMENDATIONS
+
 Develop Specific Marketing Campaigns in December to Capitalize on December's Peak Demand,
 Analyze factors driving June and October's Growth and Replicate Strategies,
 Offer Promotions in February to Boost Sales,
